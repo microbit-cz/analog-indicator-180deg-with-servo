@@ -10,9 +10,9 @@
   - 3D printer
 
 ### Materials:
-  - Wooden plywood for the face (lenght: 220mm, width: 160mm, height: 4 mm, 19 CZK) 
-  - Wooden plywood for the stands (the stands are 95 mm x 40 mm, 12 CZK)
-  - 3D printer filament (it should use circa 0,62 m of filament and it should take about 15 minutes)
+  - Wooden plywood for the face (lenght: 220mm, width: 160mm, height: 4 mm, *19 CZK*) 
+  - Wooden plywood for the stands (the stands are 95 mm x 40 mm, *12 CZK*)
+  - 3D printer filament (it should use circa 0,62 m of filament and it should take about 15 minutes, it's about 1,76 g = *0,58 CZK*)
 
 ### Electronics:
   - Servo motor MG90S (126 CZK)
@@ -21,6 +21,10 @@
   - 180_analog_indicator_face.svg (face of the indicator)
   - 180_analog_indicator_stand.svg (stand for the plywood with face)
   - 180_analog_indicator_pointera.STL (pointer)
+
+### Price:
+  - All the materials and etc. should be around *158 CZK*
+  - Plywood for the face: 19 CZK, Plywood for the stands: 12 CZK, Filament: 0,58 CZK, Servo: 126 CZK
 
 ## Tutorial
 1. Open the *180_analog_indicator_face.svg* in LightBurn Software. 
