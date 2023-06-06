@@ -32,7 +32,7 @@
 
 3. When your face of the indicator is done, you can burn the stand. Open the *180_analog_indicator_stand.svg* in LightBurn Software. 
 ![Face of the indicator](./180_analog_indicator_stand.svg)
-  -Set the green parts cut trough, and you can start.
+ - Set the green parts cut trough, and you can start.
 
 4. Now you should have all parts done.
   - ![Done face of the indicator](./images/face_1.png)
