@@ -39,24 +39,24 @@
  - Set the green parts cut trough, and you can start.
 
 4. Now you should have all parts done.
-  - ![Done face of the indicator](./images/face_1.png)
-  - ![Done pointer](./images/pointer_1.png)
-  - ![Done stands](./images/stands_1.png)
+  ![Done face of the indicator](./images/face_1.png)
+  ![Done pointer](./images/pointer_1.png)
+  ![Done stands](./images/stands_1.png)
 
 Now we can put it all together! Let's start.
 
 ## Putting it all together
   1. Take your plywood and turn it, and insert the servo inside the hole.
-  - ![Servo almost in the plywood](./images/tutorial_1.png)
-  - ![Servo in the plywood](./images/tutorial_2.png)
+  ![Servo almost in the plywood](./images/tutorial_1.png)
+  ![Servo in the plywood](./images/tutorial_2.png)
 
   2. Now take the plywood from the front and put on the pointer on the servo.
-  - ![Face of the indicator with servo](./images/tutorial_3.png)
-  - ![Indicator with pointer](./images/tutorial_4.png)
+  ![Face of the indicator with servo](./images/tutorial_3.png)
+  ![Indicator with pointer](./images/tutorial_4.png)
 
   3. As you can see on the picture before, now take your stands. Insert them into the holes. (The holes in the stands should face the holes in the plywood.)
-  - ![Indicator with pointer](./images/tutorial_5.png)
+  ![Indicator with pointer](./images/tutorial_5.png)
 
   4. And now you're done! Congratulations, you've finished the **180° Analog indicator (from 0 to 100)**.
-  - ![Indicator with pointer](./images/tutorial_6.png)
-  - ![Indicator with pointer](./images/tutorial_7.png)
+  ![Indicator with pointer](./images/tutorial_6.png)
+  ![Indicator with pointer](./images/tutorial_7.png)
