@@ -1,128 +1,136 @@
-# 180° Analog indicator (from 0 to 100) *ENG*
+# 180° Analog Indicator (0-100) *ENG*
+
 ## Materials and Tools Required for Production:
 
 ### Programs:
-  - LightBurn Software
-  - PrusaSlicer (or any program, that is compatible with your 3D printer) 
+- LightBurn Software
+- PrusaSlicer (or any program compatible with your 3D printer)
 
 ### Tools:
-  - Engraving machine or laser engraver
-  - 3D printer
+- Engraving machine or laser engraver
+- 3D printer
 
 ### Materials:
-  - Wooden plywood for the face (lenght: 220mm, width: 160mm, height: 4 mm, *19 CZK*) 
-  - Wooden plywood for the stands (the stands are 95 mm x 40 mm, *12 CZK*)
-  - 3D printer filament (it should use circa 0,62 m of filament and it should take about 15 minutes, it's about 1,76 g = *0,58 CZK*)
+- Wooden plywood for the face (Dimensions: 220mm x 160mm x 4mm, Price: 19 CZK)
+- Wooden plywood for the stands (Dimensions: 95mm x 40mm, Price: 12 CZK)
+- 3D printer filament (Estimated consumption: 0.62m, Print duration: 15 minutes, Filament weight: approximately 1.76g, Price: 0.58 CZK)
 
 ### Electronics:
-  - Servo motor MG90S (126 CZK)
+- MG90S Servo Motor (Price: 126 CZK)
 
 ### Files:
-  - 180_analog_indicator_face.svg (face of the indicator)
-  - 180_analog_indicator_stand.svg (stand for the plywood with face)
-  - 180_analog_indicator_pointera.STL (pointer)
+- 180_analog_indicator_face.svg (Indicator face)
+- 180_analog_indicator_stand.svg (Stand for the indicator face plywood)
+- 180_analog_indicator_pointera.STL (Pointer)
 
 ### Price:
-  - All the materials and etc. should be around *158 CZK*
-  - Plywood for the face: 19 CZK, Plywood for the stands: 12 CZK, Filament: 0,58 CZK, Servo: 126 CZK
+- The total cost of all materials is approximately 158 CZK
+- Plywood for the face: 19 CZK
+- Plywood for the stands: 12 CZK
+- Filament: 0.58 CZK
+- Servo motor: 126 CZK
 
 ## Tutorial
-1. Open the *180_analog_indicator_face.svg* in LightBurn Software. 
-![Face of the indicator](./180_analog_indicator_face.svg)
-  - The black parts need to be set to be cut through. The other parts are suppossed to be burn out at your discretion. The blue dot is fot better adjusting of the plywood on the working space of the engraving machine. Set the dot so the laser ignors it.
-> :warning: While adjusting the plywood on your engraving machine work place, you have to be very precise, because if you place it wrong, the black parts on the sides might not reach the end of the plywood, and you'll ruin your plywood.
+1. Open the *180_analog_indicator_face.svg* file in LightBurn Software.
+![Indicator Face](./180_analog_indicator_face.svg)
+   - The black parts should be set to be cut through, while the other parts can be burned according to your preference. The blue dot represents the center of the indicator face and helps with aligning the plywood on the engraving machine's work surface. Adjust the dot to ensure it will not be burned.
+> :warning: When placing the plywood on the engraving machine's work surface, it is important to be very precise. If it is positioned incorrectly, the black parts on the sides may not reach the edge of the plywood, potentially ruining it.
 
-2. While your indicator face is engraving, you can print the pointer. Open *180_analog_indicator_pointera.STL* in your prefered program that is compatible with your 3D printer. Fill around 15 % should be ideal. Set it and you can start printing.
+2. While the indicator face is being engraved, you can 3D print the pointer. Open the *180_analog_indicator_pointera.STL* file in your preferred 3D printing software compatible with your printer. Setting the infill to around 15 % should be suitable. Finish the settings and start the print process.
 
-3. When your face of the indicator is done, you can burn the stand. Open the *180_analog_indicator_stand.svg* in LightBurn Software. 
-![Face of the indicator](./180_analog_indicator_stand.svg)
- - Set the green parts cut trough, and you can start.
+3. Once the indicator face is engraved, you can proceed with burning the stands. Open the *180_analog_indicator_stand.svg* file in LightBurn Software.
+![Indicator Stand](./180_analog_indicator_stand.svg)
+   - Set the green parts to be cut through, and you can begin.
 
-4. Now you should have all parts done.
-  ![Done face of the indicator](./images/face_1.png)
-  ![Done pointer](./images/pointer_1.png)
-  ![Done stands](./images/stands_1.png)
+4. At this point, you should have all the components ready.
+   ![Completed Indicator Face](./images/face_1.png)
+   ![Completed Pointer](./images/pointer_1.png)
+   ![Completed Stands](./images/stands_1.png)
 
-Now we can put it all together! Let's start.
+Now, let's assemble the parts!
 
-## Putting it all together
-  1. Take your plywood and turn it, and insert the servo inside the hole.
-  ![Servo almost in the plywood](./images/tutorial_1.png)
-  ![Servo in the plywood](./images/tutorial_2.png)
+## Assembly Steps
+1. Take the plywood and flip it over. Insert the servo motor into the designated hole.
+   ![Servo Motor Placement](./images/tutorial_1.png)
+   ![Servo Motor in Plywood](./images/tutorial_2.png)
 
-  2. Now take the plywood from the front and put on the pointer on the servo.
-  ![Face of the indicator with servo](./images/tutorial_3.png)
-  ![Indicator with pointer](./images/tutorial_4.png)
+2. From the front side of the plywood, place the pointer onto the servo motor.
+   ![Indicator Face with Servo Motor](./images/tutorial_3.png)
+   ![Indicator with Pointer](./images/tutorial_4.png)
 
-  3. As you can see on the picture before, now take your stands. Insert them into the holes. (The holes in the stands should face the holes in the plywood.)
-  ![Indicator with pointer](./images/tutorial_5.png)
+3. As shown in the previous image, prepare the stands and insert them into the corresponding holes. (Ensure that the holes in the stands align with the holes in the plywood.)
+   ![Indicator with Pointer and Stands](./images/tutorial_5.png)
 
-  4. And now you're done! Congratulations, you've finished the **180° Analog indicator (from 0 to 100)**.
-  ![Indicator with pointer](./images/tutorial_6.png)
-  ![Indicator with pointer](./images/tutorial_7.png)
-
-
+4. Congratulations! You have successfully completed the assembly of the **180° Analog Indicator (0-100)**.
+   ![Completed Indicator with Pointer](./images/tutorial_6.png)
+   ![Completed Indicator with Pointer](./images/tutorial_7.png)
 
 
-# 180° Analogový ukazatel (od 0 do 100) *CZE*
+
+
+# 180° Analogový ukazatel (0-100) *CZE*
+
 ## Materiály a nástroje potřebné pro výrobu:
 
 ### Programy:
-  - LightBurn Software
-  - PrusaSlicer (nebo jakýkoliv program, co je kompatibilní s vaší 3D tiskárnou) 
+- LightBurn Software
+- PrusaSlicer (nebo jakýkoliv jiný program kompatibilní s vaší 3D tiskárnou) 
 
-### Tools:
-  - Laserová gravírka
-  - 3D tiskárna
+### Nástroje:
+- Laserová gravírka
+- 3D tiskárna
 
 ### Materiály:
-  - Dřevěná překližka pro ciferník (délka: 220mm, šířka: 160mm, výška: 4 mm, *19 Kč*) 
-  - Dřevěná překližka pro stojánky (stojánky mají velikost 95 mm x 40 mm, *12 Kč*)
-  - Filament do 3D tiskárny (mělo by to spotřebovat okolo 0,62 m filamentu a mělo by to trvat okolo 15 minut, váha využitého filamentu je cca 1,76 g = *0,58 Kč*)
+- Dřevěná překližka pro ciferník (rozměry: 220 mm x 160 mm x 4 mm, cena: 19 Kč)
+- Dřevěná překližka pro stojánky (rozměry stojánků: 95 mm x 40 mm, cena: 12 Kč)
+- Filament pro 3D tiskárnu (odhadovaná spotřeba: 0,62 m, trvání tisku: 15 minut, váha využitého filamentu: cca 1,76 g, cena: 0,58 Kč)
 
 ### Elektronika:
-  - Servo motor MG90S (126 Kč)
+- Servo motor MG90S (cena: 126 Kč)
 
 ### Soubory:
-  - 180_analog_indicator_face.svg (ciferník)
-  - 180_analog_indicator_stand.svg (stojánky)
-  - 180_analog_indicator_pointera.STL (ukazatel)
+- 180_analog_indicator_face.svg (ciferník)
+- 180_analog_indicator_stand.svg (stojánky)
+- 180_analog_indicator_pointera.STL (ukazatel)
 
-### Price:
-  - Vše by to dohromady mělo vyjít okolo *158 Kč*
-  - Překližka na ciferník: 19 CZK, Překližka na stojánek: 12 Kč, Filament: 0,58 Kč, Servo: 126 Kč
+### Celková cena:
+- Celková cena všech součástek by měla být přibližně 158 Kč
+- Překližka pro ciferník: 19 Kč
+- Překližka pro stojánky: 12 Kč
+- Filament: 0,58 Kč
+- Servo motor: 126 Kč
 
-## Tutoriál
-1. Otevřete *180_analog_indicator_face.svg* v LightBurn Software. 
+## Návod
+1. Otevřete soubor *180_analog_indicator_face.svg* v programu LightBurn Software. 
 ![Ciferník](./180_analog_indicator_face.svg)
-  - Černé části je třeba nastavit tak, aby je gravírka prořízla naskrz. Ostatní části vypalte dle vašeho uvážení. Modrá tečka je přímo uprostřed a slouží pro jednodušší nastavení překližky na pracovním prostoru gravírovacího stroje. Nastavte tečku tak, aby se nevypálila.
-> :warning: Při nastavování překližky na pracovišti gravírovacího stroje musíte být velmi přesní, protože pokud ji umístíte špatně, černé části po stranách nemusí dosáhnout konce překližky.
+   - Černé části je třeba nastavit tak, aby je gravírka prořízla naplno. Ostatní části můžete vypálit dle vlastního uvážení. Modrá tečka představuje střed ciferníku a slouží pro snazší umístění překližky na pracovní plochu gravírovacího stroje. Nastavte tečku tak, aby se nevypálila.
+> :warning: Při umisťování překližky na pracovní plochu gravírovacího stroje je důležité být velmi přesný, protože pokud ji umístíte špatně, černé části po stranách nemusí dosáhnout až na konec překližky.
 
-2. Během gravírování ciferníku můžete vytisknout ukazatel. Otevřete soubor *180_analog_indicator_pointera.STL* v preferovaném programu, který je kompatibilní s vaší 3D tiskárnou. Výplň okolo 15 % by měla být ideální. Nastavte jej a můžete začít tisknout.
+2. Během gravírování ciferníku můžete začít tisknout ukazatel. Otevřete soubor *180_analog_indicator_pointera.STL* ve vašem preferovaném programu kompatibilním s vaší 3D tiskárnou. Doporučuji nastavit výplň ideálně na 15 %. Dokončete nastavení a spusťte tisk.
 
-3. Když je ciferník hotový, můžete začít vypalovat stojan. V LightBurn Software otevřete soubor *180_analog_indicator_stand.svg*. 
-![Face of the indicator](./180_analog_indicator_stand.svg)
- - Nastavte zelené části tak, aby se vyřízly a můžete začít.
+3. Po dokončení ciferníku můžete přistoupit k vypalování stojánků. V programu LightBurn Software otevřete soubor *180_analog_indicator_stand.svg*. 
+![Stojánky](./180_analog_indicator_stand.svg)
+   - Nastavte zelené části tak, aby se vyřízly, a můžete začít.
 
-4. Nyní byste měli mít všechny díly hotové.
-  ![Zhotovený ciferník](./images/face_1.png)
-  ![Zhotovený ukazatel](./images/pointer_1.png)
-  ![Zhotovené stojánky](./images/stands_1.png)
+4. Nyní byste měli mít hotové všechny díly.
+![Dokončený ciferník](./images/face_1.png)
+![Dokončený ukazatel](./images/pointer_1.png)
+![Dokončené stojánky](./images/stands_1.png)
 
-Teď to celé můžeme dát dohromady! Pojďme na to.
+Nyní můžete přistoupit ke skládání.
 
-## Skládání dohromady
-  1. Vezměte si vaší překližku s ciferníkem, otočte ji a vložte servo do vyřezaného otvoru.
-  ![Servo skoro v překližce](./images/tutorial_1.png)
-  ![Servo v překližce](./images/tutorial_2.png)
+## Postup skládání
+1. Vezměte překližku s ciferníkem, otočte ji a vložte servo motor do vyřezaného otvoru.
+![Servo umístěné ve překližce](./images/tutorial_1.png)
+![Servo v překližce](./images/tutorial_2.png)
 
-  2. Nyní vezměte překližku zepředu a nasaďte ukazatel na servo.
-  ![Ciferník se servem](./images/tutorial_3.png)
-  ![Ciferník s ukazatelem](./images/tutorial_4.png)
+2. Otočte překližku přední stranou a nasaďte ukazatel na servo motor.
+![Ciferník s nasazeným ukazatelem](./images/tutorial_3.png)
+![Ciferník s ukazatelem](./images/tutorial_4.png)
 
-  3. Jak můžete vidět na obrázku předtím, připravte si stojánky. Vložte je do otvorů po stranách.
-  ![Ciferník s ukazatelem](./images/tutorial_5.png)
+3. Jak lze vidět na předchozím obrázku, připravte si stojánky. Vložte je do otvorů po stranách.
+![Ciferník s ukazatelem a stojánky](./images/tutorial_5.png)
 
-  4. A máte hotovo! Gratuluji, dokončili jste **180° Analogový ukazatel (od 0 do 100)**.
-  ![Indicator with pointer](./images/tutorial_6.png)
-  ![Indicator with pointer](./images/tutorial_7.png)
+4. Hotovo! Gratuluji, dokončili jste **180° Analogový ukazatel (0-100)**.
+![Ukazatel s ukazatelem](./images/tutorial_6.png)
+![Ukazatel s ukazatelem](./images/tutorial_7.png)
