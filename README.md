@@ -1,4 +1,4 @@
-# 180° Analog Indicator (0-100) *ENG*
+# 180° Analog Indicator (0 – 100) *ENG*
 
 ## Materials and Tools Required for Production:
 
@@ -68,7 +68,7 @@ Now, let's assemble the parts!
 
 
 
-# 180° Analogový ukazatel (0-100) *CZE*
+# 180° Analogový ukazatel (0 – 100) *CZE*
 
 ## Materiály a nástroje potřebné pro výrobu:
 
