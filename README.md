@@ -21,7 +21,7 @@
 ### Files:
 - 180_analog_indicator_face.svg (Indicator face)
 - 180_analog_indicator_stand.svg (Stand for the indicator face plywood)
-- 180_analog_indicator_pointera.STL (Pointer)
+- 180_analog_indicator_pointer.STL (Pointer)
 
 ### Price:
 - The total cost of all materials is approximately 158 CZK
@@ -36,7 +36,7 @@
    - The black parts should be set to be cut through, while the other parts can be burned according to your preference. The blue dot represents the center of the indicator face and helps with aligning the plywood on the engraving machine's work surface. Adjust the dot to ensure it will not be burned.
 > :warning: When placing the plywood on the engraving machine's work surface, it is important to be very precise. If it is positioned incorrectly, the black parts on the sides may not reach the edge of the plywood, potentially ruining it.
 
-2. While the indicator face is being engraved, you can 3D print the pointer. Open the *180_analog_indicator_pointera.STL* file in your preferred 3D printing software compatible with your printer. Setting the infill to around 15 % should be suitable. Finish the settings and start the print process.
+2. While the indicator face is being engraved, you can 3D print the pointer. Open the *180_analog_indicator_pointer.STL* file in your preferred 3D printing software compatible with your printer. Setting the infill to around 15 % should be suitable. Finish the settings and start the print process.
 
 3. Once the indicator face is engraved, you can proceed with burning the stands. Open the *180_analog_indicator_stand.svg* file in LightBurn Software.
 ![Indicator Stand](./180_analog_indicator_stand.svg)
@@ -91,7 +91,7 @@ Now, let's assemble the parts!
 ### Soubory:
 - 180_analog_indicator_face.svg (ciferník)
 - 180_analog_indicator_stand.svg (stojánky)
-- 180_analog_indicator_pointera.STL (ukazatel)
+- 180_analog_indicator_pointer.STL (ukazatel)
 
 ### Celková cena:
 - Celková cena všech součástek by měla být přibližně 158 Kč
@@ -106,7 +106,7 @@ Now, let's assemble the parts!
    - Černé části je třeba nastavit tak, aby je gravírka prořízla naplno. Ostatní části můžete vypálit dle vlastního uvážení. Modrá tečka představuje střed ciferníku a slouží pro snazší umístění překližky na pracovní plochu gravírovacího stroje. Nastavte tečku tak, aby se nevypálila.
 > :warning: Při umisťování překližky na pracovní plochu gravírovacího stroje je důležité být velmi přesný, protože pokud ji umístíte špatně, černé části po stranách nemusí dosáhnout až na konec překližky.
 
-2. Během gravírování ciferníku můžete začít tisknout ukazatel. Otevřete soubor *180_analog_indicator_pointera.STL* ve vašem preferovaném programu kompatibilním s vaší 3D tiskárnou. Doporučuji nastavit výplň ideálně na 15 %. Dokončete nastavení a spusťte tisk.
+2. Během gravírování ciferníku můžete začít tisknout ukazatel. Otevřete soubor *180_analog_indicator_pointer.STL* ve vašem preferovaném programu kompatibilním s vaší 3D tiskárnou. Doporučuji nastavit výplň ideálně na 15 %. Dokončete nastavení a spusťte tisk.
 
 3. Po dokončení ciferníku můžete přistoupit k vypalování stojánků. V programu LightBurn Software otevřete soubor *180_analog_indicator_stand.svg*. 
 ![Stojánky](./180_analog_indicator_stand.svg)
