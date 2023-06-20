@@ -16,7 +16,7 @@
 - 3D printer filament (Estimated consumption: 0.62m, Print duration: 15 minutes, Filament weight: approximately 1.76g, Price: 0.58 CZK)
 
 ### Electronics:
-- MG90S Servo Motor (Price: 126 CZK)
+- MG90S Servo Motor (Price: 126 CZK) or you can use SG90 Micro Servo (Price: 64 CZK)
 
 ### Files:
 - 180_analog_indicator_face.svg (Indicator face)
@@ -24,11 +24,11 @@
 - 180_analog_indicator_pointer.STL (Pointer)
 
 ### Price:
-- The total cost of all materials is approximately 158 CZK
+- The total cost of all materials is approximately 158 CZK or 96 CZK (depends on the servo you choose)
 - Plywood for the face: 19 CZK
 - Plywood for the stands: 12 CZK
 - Filament: 0.58 CZK
-- Servo motor: 126 CZK
+- Servo motor: 126 CZK or 64 CZK
 
 ## Tutorial
 1. Open the *180_analog_indicator_face.svg* file in LightBurn Software.
@@ -86,7 +86,7 @@ Now, let's assemble the parts!
 - Filament pro 3D tiskárnu (odhadovaná spotřeba: 0,62 m, trvání tisku: 15 minut, váha využitého filamentu: cca 1,76 g, cena: 0,58 Kč)
 
 ### Elektronika:
-- Servo motor MG90S (cena: 126 Kč)
+- Servo motor MG90S (cena: 126 Kč) nebo lze také použít Micro Servo SG90 (cena: 64 Kč)
 
 ### Soubory:
 - 180_analog_indicator_face.svg (ciferník)
@@ -94,11 +94,11 @@ Now, let's assemble the parts!
 - 180_analog_indicator_pointer.STL (ukazatel)
 
 ### Celková cena:
-- Celková cena všech součástek by měla být přibližně 158 Kč
+- Celková cena všech součástek by měla být přibližně 158 Kč nebo 96 Kč (záleží na servu, které zvolíte)
 - Překližka pro ciferník: 19 Kč
 - Překližka pro stojánky: 12 Kč
 - Filament: 0,58 Kč
-- Servo motor: 126 Kč
+- Servo motor: 126 Kč nebo 64 Kč
 
 ## Návod
 1. Otevřete soubor *180_analog_indicator_face.svg* v programu LightBurn Software. 
